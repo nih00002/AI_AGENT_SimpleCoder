@@ -2,7 +2,7 @@
 
 **AI_AGENT_SimpleCoder** is a Python command-line coding agent that uses a **ReAct-style tool loop** to inspect and edit files in a local workspace. It also supports optional task planning and retrieval-augmented generation (RAG) over local Python code.
 
-This repository is organized for the GitHub account **[@nih00002](https://github.com/nih00002)**. It is a **local development project**, not a hosted or live application.
+This repository is for the GitHub account **[@nih00002](https://github.com/nih00002)**. It is a **local development project**, not a hosted or live application.
 
 **Repository:** https://github.com/nih00002/AI_AGENT_SimpleCoder
 
@@ -150,4 +150,4 @@ AI_AGENT_SimpleCoder/
 
 Repository: **[nih00002/AI_AGENT_SimpleCoder](https://github.com/nih00002/AI_AGENT_SimpleCoder)**.
 
-The repository is presented as a personal coding-agent project. It includes no provider credentials, compiled caches, or live service link. Add a LICENSE only once you have confirmed the rights and license obligations of the source code used to create this adaptation.
+The repository is presented as a personal coding-agent project. It includes no provider credentials, compiled caches, or live service link
